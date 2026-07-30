@@ -1,2 +1,3 @@
-# Embroidery-app
-Developmental app code storage
+# Embroidery App
+
+Development repository for the Rust embroidery application.
